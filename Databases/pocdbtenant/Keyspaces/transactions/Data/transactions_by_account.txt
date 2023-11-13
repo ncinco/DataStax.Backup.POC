@@ -1,0 +1,3 @@
+accountnumber,transactionid,transactiondate,amount,category,code,description,particular,proccesseddate,reference,status
+999999681270444,000010C3-409E-F0B7-13CB-FF7695551444,2022-07-02T23:47:08Z,900,Personal,SampleCode,transferfriend,9part,2022-07-16T23:47:08Z,online,Completed
+999999681270434,000010C3-409E-F0B7-13CB-FF7695551443,2022-07-02T23:47:08Z,900,Personal,SampleCode,transferfriend,9part,2022-07-16T23:47:08Z,online,Completed

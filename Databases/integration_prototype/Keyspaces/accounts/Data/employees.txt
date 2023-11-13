@@ -1,0 +1,6 @@
+id,citizenships/0,citizenships/1,first_name,last_name
+b15e9346-8b60-4f0f-858b-c36fe95f49c5,AU,NZ,first_name 01,last_name 01
+8d71bb2a-ef12-4f90-bf82-b50767cf29e3,NZ,PH,first_name 03,last_name 03
+c0a0872f-b95d-44d5-9d9d-27a7c869bf21,NZ,US,first_name 02,last_name 02
+998f9565-94d4-4a72-b541-72807e38a381,CN,NZ,first_name 05,last_name 05
+03834918-7135-4699-ac9e-4ff5737f3d40,IN,NZ,first_name 04,last_name 04

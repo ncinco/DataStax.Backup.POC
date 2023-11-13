@@ -1,0 +1,6 @@
+domain,script_name,execution_id,execution_timestamp,triggered_by
+accounts,dataplane/accounts/1000_schema/0004_script.cql,48c0b602-05a1-4873-9b0e-1e40fea25a12,2023-06-08T02:31:35.080Z,ncinco
+accounts,dataplane/accounts/2000_data/0001_script.cql,926b0d48-0225-4b8e-973c-ce943d91ec4e,2023-06-08T02:31:50.597Z,ncinco
+accounts,dataplane/accounts/1000_schema/0002_script.cql,3a5f3f8e-cf1d-44c2-a3f8-5d05ffef18f4,2023-06-08T02:31:02.740Z,ncinco
+accounts,dataplane/accounts/1000_schema/0001_script.cql,308be910-662f-4ab8-85da-d19847f1ef52,2023-06-08T02:30:47.013Z,ncinco
+accounts,dataplane/accounts/1000_schema/0003_script.cql,57adf045-5394-4f37-b860-68b0dd11a5e8,2023-06-08T02:31:18.693Z,ncinco

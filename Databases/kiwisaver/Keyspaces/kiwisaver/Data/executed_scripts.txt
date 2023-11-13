@@ -1,0 +1,7 @@
+folder,script_name,execution_id,execution_timestamp,triggered_by
+kiwisaver,dataplane/kiwisaver/1000_schema/0002_script.cql,c1604898-ef8d-4165-b658-3ecefe92ea19,2023-05-30T12:43:48.214Z,ncinco
+kiwisaver,dataplane/kiwisaver/1000_schema/0004_script.cql,e780e858-41f3-4bc9-84e7-6e3f6a2a5586,2023-05-30T12:44:19.038Z,ncinco
+kiwisaver,dataplane/kiwisaver/1000_schema/0001_script.cql,7aa51842-d4c6-4e46-8141-8e181c1df96f,2023-05-30T12:43:33.229Z,ncinco
+AZ Blob - astradbdata / astradb,bank_accounts_by_cif_with_relationship_map.csv,d0aba317-e8a5-4491-b1fa-5793bc4ab354,2023-05-30T12:31:03.776Z,ncinco
+kiwisaver,dataplane/kiwisaver/1000_schema/0003_script.cql,b62001ed-2f93-4fa0-9b37-d842256d170b,2023-05-30T12:44:03.481Z,ncinco
+kiwisaver,dataplane/kiwisaver/2000_data/0001_script.cql,b0248fdc-f08d-4b65-adf6-09734fbe32d5,2023-05-30T12:44:34.019Z,ncinco

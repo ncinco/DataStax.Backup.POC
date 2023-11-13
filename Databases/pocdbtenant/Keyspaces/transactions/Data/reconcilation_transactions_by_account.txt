@@ -1,0 +1,3 @@
+accountnumber,transactiondate,amount,category,code,comments,description,particular,proccesseddate,reference,status,transactionid
+999999689270344,2022-07-02T23:47:08Z,100,Personal,SampleCode,Missing transaction,transferfriend,10part,2022-07-16T23:47:08Z,online,Completed,000010C3-409E-F0B7-13CB-FF7695951444
+999999681270444,2022-07-02T23:47:08Z,9000,Personal,SampleCode,"Differences found in columns: [reference, amount]",transferfriend,9part,2022-07-16T23:47:08Z,online - change,Completed,000010C3-409E-F0B7-13CB-FF7695551444

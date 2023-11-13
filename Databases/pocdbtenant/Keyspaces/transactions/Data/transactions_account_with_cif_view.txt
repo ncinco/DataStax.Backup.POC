@@ -1,0 +1,4 @@
+accountnumber,accounttype,amount,category,cifid/0,code,description,particular,proccesseddate,reference,status,transactiondate,transactionid
+999999173365945,,100,Personal,000006e3-af6e-331d-d343-e7d830df9c41,SampleCode,transferfriend,1part,2021-04-01T00:00:00Z,online,Completed,2021-04-01T00:00:00Z,000010C3-409E-F0B7-63CB-FF76955514F7
+999999681270444,,900,Personal,000006E3-AF6E-331D-D343-E7D830DF9C22,SampleCode,transferfriend,9part,2022-07-16T23:47:08Z,online,Completed,2022-07-02T23:47:08Z,000010C3-409E-F0B7-13CB-FF7695551444
+999999681270434,,900,Personal,000006E3-AF6E-331D-D343-E7D830DF9C33,SampleCode,transferfriend,9part,2022-07-16T23:47:08Z,online,Completed,2022-07-02T23:47:08Z,000010C3-409E-F0B7-13CB-FF7695551443

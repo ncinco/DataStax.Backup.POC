@@ -1,0 +1,299 @@
+category_name,product_sku,product_name,category_id,product_color,product_id,product_list_price,product_std_cost,product_weight
+Road Frames,FR-R38B-44,"LL Road Frame - Black, 44",40837bab-1194-4e85-9928-772acdf2f423,Black,a099b0e4-63b8-475b-bb60-da007cbac342,337.22,204.6251,1052.33
+Road Frames,FR-R38B-48,"LL Road Frame - Black, 48",40837bab-1194-4e85-9928-772acdf2f423,Black,303a1a6d-a7d4-400a-8765-3cc1fbca64ca,337.22,204.6251,1070.47
+Road Frames,FR-R38B-52,"LL Road Frame - Black, 52",40837bab-1194-4e85-9928-772acdf2f423,Black,661eb709-3cce-45da-9b68-f80873a0778c,337.22,204.6251,1088.62
+Road Frames,FR-R38B-58,"LL Road Frame - Black, 58",40837bab-1194-4e85-9928-772acdf2f423,Black,7950c243-e20a-4055-b1f3-8495541fc6ab,337.22,204.6251,1115.83
+Road Frames,FR-R38B-60,"LL Road Frame - Black, 60",40837bab-1194-4e85-9928-772acdf2f423,Black,cde5103e-c186-4253-b4a7-cf0e9ddeb6d9,337.22,204.6251,1124.9
+Road Frames,FR-R38B-62,"LL Road Frame - Black, 62",40837bab-1194-4e85-9928-772acdf2f423,Black,117bfb32-cb25-479f-bdc9-856b22bade24,337.22,204.6251,1133.98
+Road Frames,FR-R38R-44,"LL Road Frame - Red, 44",40837bab-1194-4e85-9928-772acdf2f423,Red,c5a32184-3fa8-4e9b-97cd-1a11c9f507d9,337.22,187.1571,1052.33
+Road Frames,FR-R38R-48,"LL Road Frame - Red, 48",40837bab-1194-4e85-9928-772acdf2f423,Red,72ab88b7-16dd-4ebf-af4d-55b9100240d6,337.22,187.1571,1070.47
+Road Frames,FR-R38R-52,"LL Road Frame - Red, 52",40837bab-1194-4e85-9928-772acdf2f423,Red,fc38ad4a-8dbd-4b28-8309-54f2f446c9f7,337.22,187.1571,1088.62
+Road Frames,FR-R38R-58,"LL Road Frame - Red, 58",40837bab-1194-4e85-9928-772acdf2f423,Red,62359fbe-0339-4b94-92ec-c202ce1494b1,337.22,187.1571,1115.83
+Road Frames,FR-R38R-60,"LL Road Frame - Red, 60",40837bab-1194-4e85-9928-772acdf2f423,Red,8b032c92-2299-43b8-afaa-9fac9317a2ef,337.22,187.1571,1124.9
+Road Frames,FR-R38R-62,"LL Road Frame - Red, 62",40837bab-1194-4e85-9928-772acdf2f423,Red,3755b033-fc59-4db1-ac06-a31847a24154,337.22,187.1571,1133.98
+Road Frames,FR-R72R-44,"ML Road Frame - Red, 44",40837bab-1194-4e85-9928-772acdf2f423,Red,202dfdce-e43d-476c-bdc6-f7ae607ab0e4,594.83,352.1394,1006.97
+Road Frames,FR-R72R-48,"ML Road Frame - Red, 48",40837bab-1194-4e85-9928-772acdf2f423,Red,af5cc8b7-73e6-453b-9dd7-5caadaed6e82,594.83,352.1394,1025.11
+Road Frames,FR-R72R-52,"ML Road Frame - Red, 52",40837bab-1194-4e85-9928-772acdf2f423,Red,4cc5fcba-a9f8-4956-9133-a6172f0d300c,594.83,352.1394,1043.26
+Road Frames,FR-R72R-58,"ML Road Frame - Red, 58",40837bab-1194-4e85-9928-772acdf2f423,Red,85d7c1b0-fc02-468e-92e3-391a1f2411e4,594.83,352.1394,1070.47
+Road Frames,FR-R72R-60,"ML Road Frame - Red, 60",40837bab-1194-4e85-9928-772acdf2f423,Red,74dbf546-43fc-429d-a6b8-8cce15cf81c9,594.83,352.1394,1079.54
+Road Frames,FR-R72Y-38,"ML Road Frame-W - Yellow, 38",40837bab-1194-4e85-9928-772acdf2f423,Yellow,55a45da0-2886-4d3b-8eb4-b65152b6eb86,594.83,360.9428,988.83
+Road Frames,FR-R72Y-40,"ML Road Frame-W - Yellow, 40",40837bab-1194-4e85-9928-772acdf2f423,Yellow,d5852577-4013-4ed9-a585-9fdfe4c97b30,594.83,360.9428,1006.97
+Road Frames,FR-R72Y-42,"ML Road Frame-W - Yellow, 42",40837bab-1194-4e85-9928-772acdf2f423,Yellow,2322c586-a65c-44f1-9a95-e9b1ae19d011,594.83,360.9428,1025.11
+Road Frames,FR-R72Y-44,"ML Road Frame-W - Yellow, 44",40837bab-1194-4e85-9928-772acdf2f423,Yellow,f6ee1332-8b9f-4a4c-b2a1-c69e1b06ef53,594.83,360.9428,1043.26
+Road Frames,FR-R72Y-48,"ML Road Frame-W - Yellow, 48",40837bab-1194-4e85-9928-772acdf2f423,Yellow,5a65d21d-0fff-4f0e-b20e-876d46a3c2db,594.83,360.9428,1061.4
+Road Frames,FR-R92B-44,"HL Road Frame - Black, 44",40837bab-1194-4e85-9928-772acdf2f423,Black,3e6c5244-e478-49e0-8e29-8f58158d496d,1431.5,868.6342,961.61
+Road Frames,FR-R92B-48,"HL Road Frame - Black, 48",40837bab-1194-4e85-9928-772acdf2f423,Black,7b1c3dd5-f8c3-47cd-840f-32ac7fb16bbf,1431.5,868.6342,979.75
+Road Frames,FR-R92B-52,"HL Road Frame - Black, 52",40837bab-1194-4e85-9928-772acdf2f423,Black,4930c52f-b0db-418c-a069-34c69d9d5048,1431.5,868.6342,997.9
+Road Frames,FR-R92B-58,"HL Road Frame - Black, 58",40837bab-1194-4e85-9928-772acdf2f423,Black,18821c32-c763-4835-b8e0-d1b7aee0001a,1431.5,1059.31,1016.04
+Road Frames,FR-R92B-62,"HL Road Frame - Black, 62",40837bab-1194-4e85-9928-772acdf2f423,Black,9012ad34-8c67-4641-ab37-5d40c3958066,1431.5,868.6342,1043.26
+Road Frames,FR-R92R-44,"HL Road Frame - Red, 44",40837bab-1194-4e85-9928-772acdf2f423,Red,b22cbd2b-4bec-4087-9f4a-dff1958c0135,1431.5,868.6342,961.61
+Road Frames,FR-R92R-48,"HL Road Frame - Red, 48",40837bab-1194-4e85-9928-772acdf2f423,Red,2e96618f-adbd-44ff-a090-0505418cf347,1431.5,868.6342,979.75
+Road Frames,FR-R92R-52,"HL Road Frame - Red, 52",40837bab-1194-4e85-9928-772acdf2f423,Red,439388c5-2a97-4462-bf7c-323e1bbac88f,1431.5,868.6342,997.9
+Road Frames,FR-R92R-56,"HL Road Frame - Red, 56",40837bab-1194-4e85-9928-772acdf2f423,Red,b07a400b-93bc-4823-8c05-e0cec9e91f41,1431.5,868.6342,1016.04
+Road Frames,FR-R92R-58,"HL Road Frame - Red, 58",40837bab-1194-4e85-9928-772acdf2f423,Red,76d273ae-2ed7-4d12-abd4-e542db1ce877,1431.5,1059.31,1016.04
+Road Frames,FR-R92R-62,"HL Road Frame - Red, 62",40837bab-1194-4e85-9928-772acdf2f423,Red,36180561-7058-4e27-b492-f6fc218f3e24,1431.5,868.6342,1043.26
+Saddles,SE-M236,LL Mountain Seat/Saddle,c94fd725-f7b3-43ec-b28d-346c364e147e,,c8338520-f3e2-4893-b7fa-f4303be0b3ee,27.12,12.0413,
+Saddles,SE-M798,ML Mountain Seat/Saddle,c94fd725-f7b3-43ec-b28d-346c364e147e,,2ce968ea-eb5d-4001-9eb1-b9af486db9ea,39.14,17.3782,
+Saddles,SE-M940,HL Mountain Seat/Saddle,c94fd725-f7b3-43ec-b28d-346c364e147e,,586ba799-edf0-4059-a684-5a6993e36de3,52.64,23.3722,
+Saddles,SE-R581,LL Road Seat/Saddle,c94fd725-f7b3-43ec-b28d-346c364e147e,,7b997c43-7a27-47d1-a97e-aa4b8e6dcffc,27.12,12.0413,
+Saddles,SE-R908,ML Road Seat/Saddle,c94fd725-f7b3-43ec-b28d-346c364e147e,,a95e9189-9fb9-45de-b4c3-632e30233508,39.14,17.3782,
+Saddles,SE-R995,HL Road Seat/Saddle,c94fd725-f7b3-43ec-b28d-346c364e147e,,7d742bea-7113-4aa8-9d27-0505162a4479,52.64,23.3722,
+Saddles,SE-T312,LL Touring Seat/Saddle,c94fd725-f7b3-43ec-b28d-346c364e147e,,260f2710-8dff-4159-b42a-8c657f6c8d02,27.12,12.0413,
+Saddles,SE-T762,ML Touring Seat/Saddle,c94fd725-f7b3-43ec-b28d-346c364e147e,,92997d7f-32b2-4642-975e-50bd135defc1,39.14,17.3782,
+Saddles,SE-T924,HL Touring Seat/Saddle,c94fd725-f7b3-43ec-b28d-346c364e147e,,adb3ac88-a198-434c-89e2-639d184388fb,52.64,23.3722,
+Bottles and Cages,BC-M005,Mountain Bottle Cage,cced3dde-5341-4240-92e0-c418d3780a31,,62e16103-3832-4a54-be7a-90af4b159bf5,9.99,3.7363,
+Bottles and Cages,BC-R205,Road Bottle Cage,cced3dde-5341-4240-92e0-c418d3780a31,,71a6584d-bc40-4773-8273-70ab4da3a595,8.99,3.3623,
+Bottles and Cages,WB-H098,Water Bottle - 30 oz.,cced3dde-5341-4240-92e0-c418d3780a31,,aaa13f06-580a-48e2-89e1-08afd8a73a6e,4.99,1.8663,
+Bike Stands,ST-1401,All-Purpose Bike Stand,7f25705a-ca03-4127-9645-e7507f5ceab6,,661b71ca-2d02-40d6-992a-e58464a56afc,159,59.466,
+Pedals,PD-M282,LL Mountain Pedal,bb1ef92b-5f39-4dc2-91da-ff646966f915,Silver/Black,968c18a8-fb00-4ab0-83b7-95d1beb4fadf,40.49,17.9776,218
+Pedals,PD-M340,ML Mountain Pedal,bb1ef92b-5f39-4dc2-91da-ff646966f915,Silver/Black,e28aa3b2-3b2c-4f01-bb3f-b7747419d3b8,62.09,27.568,215
+Pedals,PD-M562,HL Mountain Pedal,bb1ef92b-5f39-4dc2-91da-ff646966f915,Silver/Black,d5588a2f-1207-4345-b328-f6fe6a19f177,80.99,35.9596,185
+Pedals,PD-R347,LL Road Pedal,bb1ef92b-5f39-4dc2-91da-ff646966f915,Silver/Black,89e71f66-0e8e-4b0d-bdf2-c7c89747a83a,40.49,17.9776,189
+Pedals,PD-R563,ML Road Pedal,bb1ef92b-5f39-4dc2-91da-ff646966f915,Silver/Black,358e0d2c-3750-461d-8f56-8a13ac92d3f1,62.09,27.568,168
+Pedals,PD-R853,HL Road Pedal,bb1ef92b-5f39-4dc2-91da-ff646966f915,Silver/Black,c5ef7196-ef71-4985-aab7-4b7bab66ce6b,80.99,35.9596,149
+Pedals,PD-T852,Touring Pedal,bb1ef92b-5f39-4dc2-91da-ff646966f915,Silver/Black,2b128e84-2c6e-4cd3-a36e-317976b6cf99,80.99,35.9596,
+Jerseys,LJ-0192-L,"Long-Sleeve Logo Jersey, L",c84905fa-ad60-4586-ab92-09f7daadd056,Multi,7821bdaf-82ca-4bfc-8a58-587eeb06516a,49.99,38.4923,
+Jerseys,LJ-0192-M,"Long-Sleeve Logo Jersey, M",c84905fa-ad60-4586-ab92-09f7daadd056,Multi,f249deb0-2457-47a1-9929-06b5bfc03443,49.99,38.4923,
+Jerseys,LJ-0192-S,"Long-Sleeve Logo Jersey, S",c84905fa-ad60-4586-ab92-09f7daadd056,Multi,5c1dc2dc-b808-4667-8800-a4803e9765d5,49.99,38.4923,
+Jerseys,LJ-0192-X,"Long-Sleeve Logo Jersey, XL",c84905fa-ad60-4586-ab92-09f7daadd056,Multi,5cfee7e4-613a-469d-80d5-240f411cb45d,49.99,38.4923,
+Jerseys,SJ-0194-L,"Short-Sleeve Classic Jersey, L",c84905fa-ad60-4586-ab92-09f7daadd056,Yellow,653c68b7-ab2c-4e04-bfcd-d2b9842e9291,53.99,41.5723,
+Jerseys,SJ-0194-M,"Short-Sleeve Classic Jersey, M",c84905fa-ad60-4586-ab92-09f7daadd056,Yellow,29047c1d-c2e4-4154-8b29-5b1368fe687e,53.99,41.5723,
+Jerseys,SJ-0194-S,"Short-Sleeve Classic Jersey, S",c84905fa-ad60-4586-ab92-09f7daadd056,Yellow,2a856ccd-cd3c-459c-8987-8d1331dd3fea,53.99,41.5723,
+Jerseys,SJ-0194-X,"Short-Sleeve Classic Jersey, XL",c84905fa-ad60-4586-ab92-09f7daadd056,Yellow,7b69abad-f879-4de3-a9fc-87790374cabe,53.99,41.5723,
+Fenders,FE-6654,Fender Set - Mountain,e4eedaa5-2144-4ff0-83d8-d26f0565bec1,,d176847e-8e07-420b-a65f-7573e2fce970,21.98,8.2205,
+Tights,TG-W091-L,"Women's Tights, L",cbfeafa3-a8c9-44c9-b2a5-6b0566f38237,Black,7f5c0a97-ba6a-4898-9b65-61e774b13fdd,74.99,30.9334,
+Tights,TG-W091-M,"Women's Tights, M",cbfeafa3-a8c9-44c9-b2a5-6b0566f38237,Black,206b23d7-e4b3-48ae-8934-df18388fa484,74.99,30.9334,
+Tights,TG-W091-S,"Women's Tights, S",cbfeafa3-a8c9-44c9-b2a5-6b0566f38237,Black,2a01265a-abfb-4061-9dc4-06d948dbd88b,74.99,30.9334,
+Panniers,PA-T100,"Touring-Panniers, Large",4d101d31-2848-4cd5-ab36-3374b9886897,Grey,20f37b1f-6f55-4877-8ba2-f357833ccf73,125,51.5625,
+Brakes,FB-9873,Front Brakes,7e2556cb-b04a-424d-9292-a6162cef2475,Silver,459f11ef-f25e-47ad-a867-8cda1ebf77d4,106.5,47.286,317
+Brakes,RB-9231,Rear Brakes,7e2556cb-b04a-424d-9292-a6162cef2475,Silver,86a10b3f-07d2-411c-82a2-3e13fb974add,106.5,47.286,317
+Shorts,SH-M897-L,"Men's Sports Shorts, L",d5661d7b-a6fd-4cf8-9b1f-7acda951af20,Black,323db8c4-1d52-4054-953e-59a172d70a47,59.99,24.7459,
+Shorts,SH-M897-M,"Men's Sports Shorts, M",d5661d7b-a6fd-4cf8-9b1f-7acda951af20,Black,60747b32-052d-48e8-b110-8f5fde0315de,59.99,24.7459,
+Shorts,SH-M897-S,"Men's Sports Shorts, S",d5661d7b-a6fd-4cf8-9b1f-7acda951af20,Black,0315ce1c-666c-4dcc-b0df-9a9db890ea65,59.99,24.7459,
+Shorts,SH-M897-X,"Men's Sports Shorts, XL",d5661d7b-a6fd-4cf8-9b1f-7acda951af20,Black,9faf19c2-2cc7-4ec6-aa0f-9c88a8be1a48,59.99,24.7459,
+Shorts,SH-W890-L,"Women's Mountain Shorts, L",d5661d7b-a6fd-4cf8-9b1f-7acda951af20,Black,29add16a-2aa9-412f-bb97-61179a0a1eb2,69.99,26.1763,
+Shorts,SH-W890-M,"Women's Mountain Shorts, M",d5661d7b-a6fd-4cf8-9b1f-7acda951af20,Black,3a8539b9-9bdd-4e4a-8a21-d5de0db6232b,69.99,26.1763,
+Shorts,SH-W890-S,"Women's Mountain Shorts, S",d5661d7b-a6fd-4cf8-9b1f-7acda951af20,Black,9c215aef-bfc0-4a18-a78d-5c547173df29,69.99,26.1763,
+Derailleurs,FD-2342,Front Derailleur,f62f27e3-edbf-4459-b320-048246b70f0c,Silver,57f52bcd-cecc-4d26-bffa-cbaad28a2bb0,91.49,40.6216,88
+Derailleurs,RD-2308,Rear Derailleur,f62f27e3-edbf-4459-b320-048246b70f0c,Silver,b72648df-b6d9-45a7-ab91-b1d4242ccd0a,121.46,53.9282,215
+Socks,SO-B909-L,"Mountain Bike Socks, L",0c91f0d3-4bd0-4f84-94e0-b59f949e6e8e,White,d4d0f4b3-f019-4ca1-8c2d-dfc71e06d9db,9.5,3.3963,
+Socks,SO-B909-M,"Mountain Bike Socks, M",0c91f0d3-4bd0-4f84-94e0-b59f949e6e8e,White,acba14b7-8beb-4d9a-9357-34d1d41da35e,9.5,3.3963,
+Socks,SO-R809-L,"Racing Socks, L",0c91f0d3-4bd0-4f84-94e0-b59f949e6e8e,White,f80a1986-84d2-44d2-9272-6bc314d96869,8.99,3.3623,
+Socks,SO-R809-M,"Racing Socks, M",0c91f0d3-4bd0-4f84-94e0-b59f949e6e8e,White,2187eb6c-caf8-4daf-a252-30da6fe30128,8.99,3.3623,
+Road Bikes,BK-R19B-44,"Road-750 Black, 44",7bb4bceb-839d-487a-8dd6-afccf15b0568,Black,f21bb931-f5b0-4cb4-9181-79968b7bf2a3,539.99,343.6496,8967.47
+Road Bikes,BK-R19B-48,"Road-750 Black, 48",7bb4bceb-839d-487a-8dd6-afccf15b0568,Black,8429731b-031f-4eb4-81f8-cc755dafaacd,539.99,343.6496,9130.77
+Road Bikes,BK-R19B-52,"Road-750 Black, 52",7bb4bceb-839d-487a-8dd6-afccf15b0568,Black,bb32eaf8-02b5-4c1f-b9ae-e29f3ee52b60,539.99,343.6496,9262.31
+Road Bikes,BK-R19B-58,"Road-750 Black, 58",7bb4bceb-839d-487a-8dd6-afccf15b0568,Black,81c5019e-69af-4214-9ab5-cca872dba975,539.99,343.6496,9430.14
+Road Bikes,BK-R50B-44,"Road-650 Black, 44",7bb4bceb-839d-487a-8dd6-afccf15b0568,Black,3cd05b33-e22b-46ca-b1b2-d92c449ff097,782.99,486.7066,8513.88
+Road Bikes,BK-R50B-48,"Road-650 Black, 48",7bb4bceb-839d-487a-8dd6-afccf15b0568,Black,33cb120d-236f-4bf0-8c20-34a5a9f6dc29,782.99,486.7066,8677.18
+Road Bikes,BK-R50B-52,"Road-650 Black, 52",7bb4bceb-839d-487a-8dd6-afccf15b0568,Black,d23a38bd-86df-4ef0-8bf7-0b2e76d63776,782.99,486.7066,8808.72
+Road Bikes,BK-R50B-58,"Road-650 Black, 58",7bb4bceb-839d-487a-8dd6-afccf15b0568,Black,a70710df-087d-4a0d-a48c-a2295578021a,782.99,486.7066,8976.55
+Road Bikes,BK-R50B-60,"Road-650 Black, 60",7bb4bceb-839d-487a-8dd6-afccf15b0568,Black,b3876efe-e30a-4649-9a4d-351a6be8383f,782.99,486.7066,9026.44
+Road Bikes,BK-R50B-62,"Road-650 Black, 62",7bb4bceb-839d-487a-8dd6-afccf15b0568,Black,64154f75-7207-4b64-8a2d-0971b46df42f,782.99,486.7066,9071.8
+Road Bikes,BK-R50R-44,"Road-650 Red, 44",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,5accbebe-c0d7-4fe3-a642-11c996037ad3,782.99,486.7066,8513.88
+Road Bikes,BK-R50R-48,"Road-650 Red, 48",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,5b17676a-9e25-4103-95f3-cedb3048a956,782.99,486.7066,8677.18
+Road Bikes,BK-R50R-52,"Road-650 Red, 52",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,80a09805-2f1d-4e03-80f3-ee0e9e9a2fc9,782.99,486.7066,8808.72
+Road Bikes,BK-R50R-58,"Road-650 Red, 58",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,3fb61f46-b667-4751-b3d9-2edc8c214d03,782.99,486.7066,8976.55
+Road Bikes,BK-R50R-60,"Road-650 Red, 60",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,c2af992e-b50b-45f6-9a08-d015853b9cba,782.99,486.7066,9026.44
+Road Bikes,BK-R50R-62,"Road-650 Red, 62",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,c198cbe7-6e9d-4918-a522-8db801f34f1f,782.99,486.7066,9071.8
+Road Bikes,BK-R64Y-38,"Road-550-W Yellow, 38",7bb4bceb-839d-487a-8dd6-afccf15b0568,Yellow,a711d6eb-20fe-4d63-b7e1-4e2122537d6d,1120.49,713.0798,7869.79
+Road Bikes,BK-R64Y-40,"Road-550-W Yellow, 40",7bb4bceb-839d-487a-8dd6-afccf15b0568,Yellow,039f28c7-bc24-4353-a695-a43f7bebeba1,1120.49,713.0798,8060.29
+Road Bikes,BK-R64Y-42,"Road-550-W Yellow, 42",7bb4bceb-839d-487a-8dd6-afccf15b0568,Yellow,5c7bfbc3-1d84-466f-8551-4d5cd07af041,1120.49,713.0798,8223.59
+Road Bikes,BK-R64Y-44,"Road-550-W Yellow, 44",7bb4bceb-839d-487a-8dd6-afccf15b0568,Yellow,1220b54f-e33c-449d-b088-80b267433aae,1120.49,713.0798,8355.13
+Road Bikes,BK-R64Y-48,"Road-550-W Yellow, 48",7bb4bceb-839d-487a-8dd6-afccf15b0568,Yellow,a1945b6e-1371-4554-9934-69a5b929e30c,1120.49,713.0798,8473.06
+Road Bikes,BK-R68R-44,"Road-450 Red, 44",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,d38e4146-79b8-4a7f-9378-e5d9938d7f32,1457.99,884.7083,7606.7
+Road Bikes,BK-R68R-48,"Road-450 Red, 48",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,86390134-381e-4342-a971-f5b78dbb199b,1457.99,884.7083,7770
+Road Bikes,BK-R68R-52,"Road-450 Red, 52",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,666f1f2c-875e-4d8c-a5b3-7f2a5ac1736d,1457.99,884.7083,7901.54
+Road Bikes,BK-R68R-58,"Road-450 Red, 58",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,149a2d42-b6b7-4c1a-8e35-62be0a7a6332,1457.99,884.7083,8069.37
+Road Bikes,BK-R68R-60,"Road-450 Red, 60",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,c05ddb81-e555-4400-aa6d-7ba66c4be475,1457.99,884.7083,8119.26
+Road Bikes,BK-R79Y-40,"Road-350-W Yellow, 40",7bb4bceb-839d-487a-8dd6-afccf15b0568,Yellow,9a954eb9-b1cf-48c9-a17f-623fea963a11,1700.99,1082.51,6962.61
+Road Bikes,BK-R79Y-42,"Road-350-W Yellow, 42",7bb4bceb-839d-487a-8dd6-afccf15b0568,Yellow,2a66ff52-86e5-49c0-a461-49be0e25e069,1700.99,1082.51,7153.11
+Road Bikes,BK-R79Y-44,"Road-350-W Yellow, 44",7bb4bceb-839d-487a-8dd6-afccf15b0568,Yellow,fa606308-09d1-492d-a55a-a4cea4bbf806,1700.99,1082.51,7316.41
+Road Bikes,BK-R79Y-48,"Road-350-W Yellow, 48",7bb4bceb-839d-487a-8dd6-afccf15b0568,Yellow,45e61616-45ad-4f28-a801-d923be8f5496,1700.99,1082.51,7447.95
+Road Bikes,BK-R89B-44,"Road-250 Black, 44",7bb4bceb-839d-487a-8dd6-afccf15b0568,Black,bb15cc0e-c791-48af-8cff-1c1698400b3d,2443.35,1554.9479,6699.52
+Road Bikes,BK-R89B-48,"Road-250 Black, 48",7bb4bceb-839d-487a-8dd6-afccf15b0568,Black,230c738a-73ff-4147-b038-1f2cb0520fb8,2443.35,1554.9479,6862.82
+Road Bikes,BK-R89B-52,"Road-250 Black, 52",7bb4bceb-839d-487a-8dd6-afccf15b0568,Black,d5e39ed2-d992-42aa-b47f-88a92d2ab96c,2443.35,1554.9479,6994.36
+Road Bikes,BK-R89B-58,"Road-250 Black, 58",7bb4bceb-839d-487a-8dd6-afccf15b0568,Black,c490f2d6-d9fb-4ee0-b465-a5a6c1fcc851,2443.35,1554.9479,7112.29
+Road Bikes,BK-R89R-44,"Road-250 Red, 44",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,81eb8eb2-8705-4516-b882-4d3de291f0f0,2443.35,1518.7864,6699.52
+Road Bikes,BK-R89R-48,"Road-250 Red, 48",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,8b31ab6f-3da5-4c36-82e6-b3174994f7e8,2443.35,1518.7864,6862.82
+Road Bikes,BK-R89R-52,"Road-250 Red, 52",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,f822a893-f90b-40fc-bd7a-6e801eda7b26,2443.35,1518.7864,6994.36
+Road Bikes,BK-R89R-58,"Road-250 Red, 58",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,36f6a9cb-12e9-414d-aeb5-8bc3aca01c02,2443.35,1554.9479,7162.19
+Road Bikes,BK-R93R-44,"Road-150 Red, 44",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,d68d7f00-c4bf-40ee-b30c-c8b320fd86f0,3578.27,2171.2942,6245.93
+Road Bikes,BK-R93R-48,"Road-150 Red, 48",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,c72fe2c4-42d2-4c75-b261-00bb98429b0f,3578.27,2171.2942,6409.23
+Road Bikes,BK-R93R-52,"Road-150 Red, 52",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,a8a43e27-5916-4c88-ad74-6d0221184b9f,3578.27,2171.2942,6540.77
+Road Bikes,BK-R93R-56,"Road-150 Red, 56",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,67c6ae5b-2785-4021-a85e-15ddf233446d,3578.27,2171.2942,6658.7
+Road Bikes,BK-R93R-62,"Road-150 Red, 62",7bb4bceb-839d-487a-8dd6-afccf15b0568,Red,b4e84722-1c78-4041-8b55-1a5ee3f1e969,3578.27,2171.2942,6803.85
+Forks,FK-1639,LL Fork,fd015572-4805-49bc-af03-cd1df8ba3953,,fd6a1a5e-963d-4f19-bf08-f76359a70073,148.22,65.8097,
+Forks,FK-5136,ML Fork,fd015572-4805-49bc-af03-cd1df8ba3953,,20cdae87-b318-4902-a4f2-3ddf403440c6,175.49,77.9176,
+Forks,FK-9939,HL Fork,fd015572-4805-49bc-af03-cd1df8ba3953,,ae0e41c7-2daf-4b42-8289-f16120a8aac1,229.49,101.8936,
+Wheels,FW-M423,LL Mountain Front Wheel,c623f69c-f793-4c42-b435-3258c9ba8c33,Black,730b717c-ac33-4ae9-aace-87c4a06d260e,60.745,26.9708,
+Wheels,FW-M762,ML Mountain Front Wheel,c623f69c-f793-4c42-b435-3258c9ba8c33,Black,8db21dfd-8e64-465d-a89a-db2bd769591c,209.025,92.8071,
+Wheels,FW-M928,HL Mountain Front Wheel,c623f69c-f793-4c42-b435-3258c9ba8c33,Black,2ea17d2a-55f1-485e-93c5-f7a1187d8fda,300.215,133.2955,
+Wheels,FW-R623,LL Road Front Wheel,c623f69c-f793-4c42-b435-3258c9ba8c33,Black,863e6335-8e30-414e-af76-d7d8eb49ab90,85.565,37.9909,900
+Wheels,FW-R762,ML Road Front Wheel,c623f69c-f793-4c42-b435-3258c9ba8c33,Black,57930a86-7cad-402c-be62-e8149bc7789b,248.385,110.2829,850
+Wheels,FW-R820,HL Road Front Wheel,c623f69c-f793-4c42-b435-3258c9ba8c33,Black,9d98be1d-899f-43ea-9dfd-1e8e465dd45d,330.06,146.5466,650
+Wheels,FW-T905,Touring Front Wheel,c623f69c-f793-4c42-b435-3258c9ba8c33,Black,a9790be8-43a4-4ddb-aa0b-3f1252dc7fd8,218.01,96.7964,
+Wheels,RW-M423,LL Mountain Rear Wheel,c623f69c-f793-4c42-b435-3258c9ba8c33,Black,36bd8483-ed3f-44f1-a1dc-8787c1947526,87.745,38.9588,
+Wheels,RW-M762,ML Mountain Rear Wheel,c623f69c-f793-4c42-b435-3258c9ba8c33,Black,52d3d208-a5a7-4b31-bc66-343c9187f121,236.025,104.7951,
+Wheels,RW-M928,HL Mountain Rear Wheel,c623f69c-f793-4c42-b435-3258c9ba8c33,Black,2a33d821-88b3-49bf-8604-b0109e2231e8,327.215,145.2835,
+Wheels,RW-R623,LL Road Rear Wheel,c623f69c-f793-4c42-b435-3258c9ba8c33,Black,42e0be17-d7b2-48a7-9ac9-e33207888cba,112.565,49.9789,1050
+Wheels,RW-R762,ML Road Rear Wheel,c623f69c-f793-4c42-b435-3258c9ba8c33,Black,67dd0cf2-2de2-4e35-8108-dac52ebf378d,275.385,122.2709,1000
+Wheels,RW-R820,HL Road Rear Wheel,c623f69c-f793-4c42-b435-3258c9ba8c33,Black,d5cf8356-55d2-4b99-b05b-b036b6c1701f,357.06,158.5346,890
+Wheels,RW-T905,Touring Rear Wheel,c623f69c-f793-4c42-b435-3258c9ba8c33,Black,9fad8446-4394-40d2-95c6-7f7891f8d5f2,245.01,108.7844,
+Cranksets,CS-4759,LL Crankset,78b31369-231b-48a6-b93e-9b365c56f38c,Black,0475a6a8-8241-4bc4-a2d9-1cfa54c962fd,175.49,77.9176,600
+Cranksets,CS-6583,ML Crankset,78b31369-231b-48a6-b93e-9b365c56f38c,Black,0751479f-3a8b-470e-86ce-09f555f894dd,256.49,113.8816,635
+Cranksets,CS-9183,HL Crankset,78b31369-231b-48a6-b93e-9b365c56f38c,Black,c3e80b18-a6e0-40f1-b4a2-10c12b9b901b,404.99,179.8156,575
+Cleaners,CL-9009,Bike Wash - Dissolver,5ae34752-8d34-4ec1-9b7d-eaedacfbbffa,,55009339-5e27-4d9d-9d36-491492c8e4eb,7.95,2.9733,
+Locks,LO-C100,Cable Lock,a0c57cb7-df4c-429b-b9ff-e08e27952077,,4a04a487-936b-44f4-88be-e50389cc6d7f,25,10.3125,
+Bib-Shorts,SB-M891-L,"Men's Bib-Shorts, L",3c4e52ce-0ea4-40a3-82aa-886fb7ed61c0,Multi,249f5690-889f-4769-89be-643474ece802,89.99,37.1209,
+Bib-Shorts,SB-M891-M,"Men's Bib-Shorts, M",3c4e52ce-0ea4-40a3-82aa-886fb7ed61c0,Multi,0b58267e-9722-4b35-b8c6-bfacf4d72308,89.99,37.1209,
+Bib-Shorts,SB-M891-S,"Men's Bib-Shorts, S",3c4e52ce-0ea4-40a3-82aa-886fb7ed61c0,Multi,9cb10c4a-f03c-43bd-a504-f2b2ab653f2e,89.99,37.1209,
+Tires and Tubes,PK-7098,Patch Kit/8 Patches,3c497617-f094-4215-8bde-947b82499938,,62215b80-9c9b-45cb-b68a-878e34628b2a,2.29,0.8565,
+Tires and Tubes,TI-M267,LL Mountain Tire,3c497617-f094-4215-8bde-947b82499938,,4eeb8df5-8973-4fa6-a9e1-eaa3e20a25d3,24.99,9.3463,
+Tires and Tubes,TI-M602,ML Mountain Tire,3c497617-f094-4215-8bde-947b82499938,,e1d52207-307d-445d-936b-986867d82c7a,29.99,11.2163,
+Tires and Tubes,TI-M823,HL Mountain Tire,3c497617-f094-4215-8bde-947b82499938,,78de5dc9-d796-4bfd-854d-7701bf4f3a06,35,13.09,
+Tires and Tubes,TI-R092,LL Road Tire,3c497617-f094-4215-8bde-947b82499938,,540b1d25-1256-49bb-b0c7-54f975bf668e,21.49,8.0373,
+Tires and Tubes,TI-R628,ML Road Tire,3c497617-f094-4215-8bde-947b82499938,,660a8810-de33-4faf-b730-7b61e455e11e,24.99,9.3463,
+Tires and Tubes,TI-R982,HL Road Tire,3c497617-f094-4215-8bde-947b82499938,,691985ed-529e-4927-8674-336367557d86,32.6,12.1924,
+Tires and Tubes,TI-T723,Touring Tire,3c497617-f094-4215-8bde-947b82499938,,d9f1459f-4ac7-4288-9d74-9dddba0cdca9,28.99,10.8423,
+Tires and Tubes,TT-M928,Mountain Tire Tube,3c497617-f094-4215-8bde-947b82499938,,6598d2aa-a16c-4f9f-b33a-672de7823934,4.99,1.8663,
+Tires and Tubes,TT-R982,Road Tire Tube,3c497617-f094-4215-8bde-947b82499938,,1ecc1766-bec6-47c2-aa91-a11864ba0ee8,3.99,1.4923,
+Tires and Tubes,TT-T092,Touring Tire Tube,3c497617-f094-4215-8bde-947b82499938,,040c985d-4003-4aeb-aaf5-c77496a29acf,4.99,1.8663,
+Bottom Brackets,BB-7421,LL Bottom Bracket,926179cd-73c2-4964-86e6-96326a05c578,,554752a3-898f-4bf4-9a5e-3ed6d54280f6,53.99,23.9716,223
+Bottom Brackets,BB-8107,ML Bottom Bracket,926179cd-73c2-4964-86e6-96326a05c578,,4a305c7d-a47c-4409-a9c7-b7da8e47242d,101.24,44.9506,168
+Bottom Brackets,BB-9108,HL Bottom Bracket,926179cd-73c2-4964-86e6-96326a05c578,,937ffdee-a3ee-4220-958d-e9d1e10da861,121.49,53.9416,170
+Chains,CH-0234,Chain,37a6fb30-05df-4111-8f85-61648262f1b1,Silver,9e9a3550-70bc-4eae-af9e-6cd8f4ba78db,20.24,8.9866,
+Chains,CH-0235,Golden Chain,37a6fb30-05df-4111-8f85-61648262f1b1,Golden,9638678d-8e0d-41f5-a9d4-a2f64fd6eff2,21.24,9.9866,0
+Mountain Frames,FR-M21B-40,"LL Mountain Frame - Black, 40",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Black,9009f757-879c-4c26-952f-e51b6e3f777c,249.79,136.785,1306.34
+Mountain Frames,FR-M21B-42,"LL Mountain Frame - Black, 42",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Black,f7df0f2d-d060-4015-848d-0a74210a1ba9,249.79,136.785,1324.48
+Mountain Frames,FR-M21B-44,"LL Mountain Frame - Black, 44",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Black,b74789be-a83c-4482-b2c9-249514a8768f,249.79,136.785,1342.63
+Mountain Frames,FR-M21B-48,"LL Mountain Frame - Black, 48",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Black,b9eddcad-2438-48ab-8a2f-845a9733009c,249.79,136.785,1360.77
+Mountain Frames,FR-M21B-52,"LL Mountain Frame - Black, 52",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Black,5df848c9-61bd-4695-88bc-09f221d140a4,249.79,136.785,1378.91
+Mountain Frames,FR-M21S-40,"LL Mountain Frame - Silver, 40",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Silver,a298fcde-7aec-45f9-a0d4-5186fb6a75c9,264.05,144.5938,1306.34
+Mountain Frames,FR-M21S-42,"LL Mountain Frame - Silver, 42",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Silver,8f305d4b-ccbf-48cd-b199-6eb2b67f25e3,264.05,144.5938,1324.48
+Mountain Frames,FR-M21S-44,"LL Mountain Frame - Silver, 44",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Silver,4253f462-e766-49a5-9129-659d0cb81e03,264.05,144.5938,1342.63
+Mountain Frames,FR-M21S-48,"LL Mountain Frame - Silver, 48",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Silver,006752e0-1028-40b5-903f-8eeea50a39d7,264.05,144.5938,1360.77
+Mountain Frames,FR-M21S-52,"LL Mountain Frame - Silver, 52",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Silver,74c1bdca-2b93-458c-a5ae-b7a27f9d422a,264.05,144.5938,1378.91
+Mountain Frames,FR-M63B-38,"ML Mountain Frame - Black, 38",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Black,9e22f648-addc-46de-88ae-5d0ea3c41e7b,348.76,185.8193,1238.3
+Mountain Frames,FR-M63B-40,"ML Mountain Frame - Black, 40",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Black,a9901938-7270-4948-add0-2b5b780bd8d1,348.76,185.8193,1256.44
+Mountain Frames,FR-M63B-44,"ML Mountain Frame - Black, 44",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Black,01f5429a-8a03-4119-bc05-18617b715226,348.76,185.8193,1274.59
+Mountain Frames,FR-M63B-48,"ML Mountain Frame - Black, 48",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Black,5626745d-fc7d-4f35-b682-26fe76b3793a,348.76,185.8193,1292.73
+Mountain Frames,FR-M63S-38,"ML Mountain Frame-W - Silver, 38",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Silver,a415f404-b069-4c5b-bedb-6eb539014963,364.09,199.3757,1238.3
+Mountain Frames,FR-M63S-40,"ML Mountain Frame-W - Silver, 40",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Silver,97e0b480-29bd-4c92-af90-1c188a0c1cd5,364.09,199.3757,1256.44
+Mountain Frames,FR-M63S-42,"ML Mountain Frame-W - Silver, 42",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Silver,a2956402-2426-4e73-830c-3e8e2c4e34e5,364.09,199.3757,1274.59
+Mountain Frames,FR-M63S-46,"ML Mountain Frame-W - Silver, 46",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Silver,8f7c5678-aad9-4f25-80df-4d2beb1531e2,364.09,199.3757,1292.73
+Mountain Frames,FR-M94B-38,"HL Mountain Frame - Black, 38",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Black,07d6ba44-c223-4768-b010-6e94030e0e78,1349.6,739.041,1215.62
+Mountain Frames,FR-M94B-42,"HL Mountain Frame - Black, 42",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Black,5843b109-6efe-4a3a-8fb5-1ec46e44b05f,1349.6,739.041,1233.76
+Mountain Frames,FR-M94B-44,"HL Mountain Frame - Black, 44",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Black,56c65711-6130-4c74-9cb4-6221eda1e432,1349.6,699.0928,1251.91
+Mountain Frames,FR-M94B-46,"HL Mountain Frame - Black, 46",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Black,5719649d-e679-4668-81bd-96da58bffba2,1349.6,739.041,1288.2
+Mountain Frames,FR-M94B-48,"HL Mountain Frame - Black, 48",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Black,c0ad50b1-21a5-4faa-b83c-fad38b1efaef,1349.6,699.0928,1270.05
+Mountain Frames,FR-M94S-38,"HL Mountain Frame - Silver, 38",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Silver,e558def3-c00d-4dd0-806c-a04008ffe5ce,1364.5,747.2002,1215.62
+Mountain Frames,FR-M94S-42,"HL Mountain Frame - Silver, 42",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Silver,10c0c51b-14b3-4d15-b967-350f28060c2f,1364.5,747.2002,1233.76
+Mountain Frames,FR-M94S-44,"HL Mountain Frame - Silver, 44",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Silver,fa15f437-18e9-4f76-85cf-8c49a566d211,1364.5,706.811,1251.91
+Mountain Frames,FR-M94S-46,"HL Mountain Frame - Silver, 46",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Silver,1b7a121d-218e-421c-bfab-f50dc6778296,1364.5,747.2002,1288.2
+Mountain Frames,FR-M94S-52,"HL Mountain Frame - Silver, 48",8b9c22e9-c577-4c09-8a6d-ba7ea3640fe1,Silver,3c7cfd7a-57f7-45bc-8804-1a64ab73cc72,1364.5,706.811,1270.05
+Lights,LT-H902,Headlights - Dual-Beam,6c1f5dc6-43b5-41de-8e09-8d0b0b1d4497,,2376a60c-d0b2-42c9-a6bb-cc936de90b69,34.99,14.4334,
+Lights,LT-H903,Headlights - Weatherproof,6c1f5dc6-43b5-41de-8e09-8d0b0b1d4497,,174eb8c1-9ed7-475c-9cd9-7ba2c5635721,44.99,18.5584,
+Lights,LT-T990,Taillights - Battery-Powered,6c1f5dc6-43b5-41de-8e09-8d0b0b1d4497,,984e5d4d-94b5-4bd7-9aa2-3c4124511315,13.99,5.7709,
+Mountain Bikes,BK-M18B-40,"Mountain-500 Black, 40",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,c8f2a7e2-dca6-4d5c-93d6-8519843df423,539.99,294.5797,12405.69
+Mountain Bikes,BK-M18B-42,"Mountain-500 Black, 42",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,35779fc1-b60b-42fa-82e2-6a7563320882,539.99,294.5797,12596.19
+Mountain Bikes,BK-M18B-44,"Mountain-500 Black, 44",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,76ea99e1-48d7-40f6-9fe3-28aef464f83a,539.99,294.5797,12759.49
+Mountain Bikes,BK-M18B-48,"Mountain-500 Black, 48",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,da9cb426-f539-4ddc-b1d5-72b69ea7177f,539.99,294.5797,12891.03
+Mountain Bikes,BK-M18B-52,"Mountain-500 Black, 52",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,14c57bf5-5508-4396-bc4f-50a147ab264f,539.99,294.5797,13008.96
+Mountain Bikes,BK-M18S-40,"Mountain-500 Silver, 40",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,b8619c43-2c1d-4001-a03b-d85b742139ac,564.99,308.2179,12405.69
+Mountain Bikes,BK-M18S-42,"Mountain-500 Silver, 42",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,1264eca9-6a27-4c8c-858c-3fdf2ff02c32,564.99,308.2179,12596.19
+Mountain Bikes,BK-M18S-44,"Mountain-500 Silver, 44",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,9707246c-d525-4676-b710-4f64a04ba4c7,564.99,308.2179,12759.49
+Mountain Bikes,BK-M18S-48,"Mountain-500 Silver, 48",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,391b8cfe-6c26-4664-a111-b3d7d221ece8,564.99,308.2179,12891.03
+Mountain Bikes,BK-M18S-52,"Mountain-500 Silver, 52",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,4f0811cc-690a-442d-90da-39b859c21c95,564.99,308.2179,13008.96
+Mountain Bikes,BK-M38S-38,"Mountain-400-W Silver, 38",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,c1745b45-55fc-4c62-8574-3b7990f9cab1,769.49,419.7784,11952.1
+Mountain Bikes,BK-M38S-40,"Mountain-400-W Silver, 40",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,61821b3d-0741-4af5-8744-ff14f3c79845,769.49,419.7784,12142.6
+Mountain Bikes,BK-M38S-42,"Mountain-400-W Silver, 42",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,3ba5e303-b11c-4cba-aa6d-b55b9ea9d26f,769.49,419.7784,12305.9
+Mountain Bikes,BK-M38S-46,"Mountain-400-W Silver, 46",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,29cfc3ff-be5e-446c-b2e5-f797ab02dd27,769.49,419.7784,12437.44
+Mountain Bikes,BK-M47B-38,"Mountain-300 Black, 38",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,7a4d6bb1-6400-4f17-ada2-f8c07f7edf0c,1079.99,598.4354,11498.51
+Mountain Bikes,BK-M47B-40,"Mountain-300 Black, 40",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,f94cac42-1044-4b7f-840d-8571035f84d5,1079.99,598.4354,11689.01
+Mountain Bikes,BK-M47B-44,"Mountain-300 Black, 44",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,63b6ed96-aca6-4180-83a5-5f1f8bf831e2,1079.99,598.4354,11852.31
+Mountain Bikes,BK-M47B-48,"Mountain-300 Black, 48",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,0405cfa2-26e5-4c10-8e80-508252f935b8,1079.99,598.4354,11983.85
+Mountain Bikes,BK-M68B-38,"Mountain-200 Black, 38",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,de1e70ff-7951-4e8d-ade3-85766de25f7b,2294.99,1251.9813,10591.33
+Mountain Bikes,BK-M68B-42,"Mountain-200 Black, 42",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,c7820142-94b3-45a0-846b-3d95d91c19f3,2294.99,1251.9813,10781.83
+Mountain Bikes,BK-M68B-46,"Mountain-200 Black, 46",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,e2a262d4-8877-4c7c-b9a6-5b4964bf3737,2294.99,1251.9813,10945.13
+Mountain Bikes,BK-M68S-38,"Mountain-200 Silver, 38",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,cf8f5976-57af-4aa4-8e56-e526d783f5d3,2319.99,1265.6195,10591.33
+Mountain Bikes,BK-M68S-42,"Mountain-200 Silver, 42",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,44ec0ae9-e8bb-4698-b1b3-4d3418be241a,2319.99,1265.6195,10781.83
+Mountain Bikes,BK-M68S-46,"Mountain-200 Silver, 46",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,6a228e11-0961-4dee-8e25-11c239a3fd86,2319.99,1265.6195,10945.13
+Mountain Bikes,BK-M82B-38,"Mountain-100 Black, 38",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,ee58d760-6c10-4579-af43-ae47fa06ca20,3374.99,1898.0944,9230.56
+Mountain Bikes,BK-M82B-42,"Mountain-100 Black, 42",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,d12e82af-74b7-41f5-a6a3-f8a84d009f61,3374.99,1898.0944,9421.06
+Mountain Bikes,BK-M82B-44,"Mountain-100 Black, 44",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,2c2636cf-4a49-4068-a4aa-16c60e1d9ecb,3374.99,1898.0944,9584.36
+Mountain Bikes,BK-M82B-48,"Mountain-100 Black, 48",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Black,1421cee4-0865-4d82-8a9d-a06dce98fe38,3374.99,1898.0944,9715.9
+Mountain Bikes,BK-M82S-38,"Mountain-100 Silver, 38",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,c6608838-3d19-4c50-bdbe-48a9c2942304,3399.99,1912.1544,9230.56
+Mountain Bikes,BK-M82S-42,"Mountain-100 Silver, 42",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,48b77bc1-265d-40e7-9086-7133acf2b5c6,3399.99,1912.1544,9421.06
+Mountain Bikes,BK-M82S-44,"Mountain-100 Silver, 44",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,2455b387-407f-40bc-a508-f2731b293491,3399.99,1912.1544,9584.36
+Mountain Bikes,BK-M82S-48,"Mountain-100 Silver, 48",1116cf65-12a9-49e5-bf74-edbcafb2ad1d,Silver,db46dbcf-9e09-4829-a2ef-8094b224c83e,3399.99,1912.1544,9715.9
+Pumps,PU-0452,Minipump,f79b665e-d2ed-4fe6-adba-cca0761ea27c,,e4b5316c-223b-4b2c-a104-9f83a88b6473,19.99,8.2459,
+Pumps,PU-M044,Mountain Pump,f79b665e-d2ed-4fe6-adba-cca0761ea27c,,0364281b-7854-42f6-8867-6adea6a4b3f1,24.99,10.3084,
+Bike Racks,RA-H123,Hitch Rack - 4-Bike,1132a578-6d84-4b56-885d-900f4ec78f3f,,5fbe796c-1e44-4088-8898-34362c795197,120,44.88,
+Helmets,HL-U509,"Sport-100 Helmet, Black",33f1d881-3a9c-41e1-8b95-d9a7b1ac6822,Black,cb87cee2-d9b4-4f10-bfca-f895d29f29c6,34.99,13.0863,
+Helmets,HL-U509-B,"Sport-100 Helmet, Blue",33f1d881-3a9c-41e1-8b95-d9a7b1ac6822,Blue,9ff24d97-f84c-45f9-8669-42015985e4f9,34.99,13.0863,
+Helmets,HL-U509-R,"Sport-100 Helmet, Red",33f1d881-3a9c-41e1-8b95-d9a7b1ac6822,Red,8f80629d-9813-475f-aa7d-043be281a706,34.99,13.0863,
+Handlebars,HB-M243,LL Mountain Handlebars,e18e2a95-1526-4e41-80f7-0e797e2ac95c,,fe67a420-eacc-46a7-a569-4e0b98bb1e20,44.54,19.7758,
+Handlebars,HB-M763,ML Mountain Handlebars,e18e2a95-1526-4e41-80f7-0e797e2ac95c,,ff810853-831e-4f4a-b3e4-5ec78d5f7cd0,61.92,27.4925,
+Handlebars,HB-M918,HL Mountain Handlebars,e18e2a95-1526-4e41-80f7-0e797e2ac95c,,db484870-8c61-4815-8aa8-485e5a74c70d,120.27,53.3999,
+Handlebars,HB-R504,LL Road Handlebars,e18e2a95-1526-4e41-80f7-0e797e2ac95c,,d3fc9440-e5ee-4f79-bbe6-96805020f35d,44.54,19.7758,
+Handlebars,HB-R720,ML Road Handlebars,e18e2a95-1526-4e41-80f7-0e797e2ac95c,,3818f1fb-c17d-4310-807d-bd36dcf17049,61.92,27.4925,
+Handlebars,HB-R956,HL Road Handlebars,e18e2a95-1526-4e41-80f7-0e797e2ac95c,,26582624-f8cf-454c-8e32-7ff653bd8eb7,120.27,53.3999,
+Handlebars,HB-T721,LL Touring Handlebars,e18e2a95-1526-4e41-80f7-0e797e2ac95c,,ffa02442-1a51-4d35-98b0-e3b4ec54a182,46.09,20.464,
+Handlebars,HB-T928,HL Touring Handlebars,e18e2a95-1526-4e41-80f7-0e797e2ac95c,,26f5c990-da03-4559-bbf2-267a479ae855,91.57,40.6571,
+Vests,VE-C304-L,"Classic Vest, L",f5d94496-fff0-4943-8e73-f10f35f44a5b,Blue,405f569d-299b-47b7-8580-a891d6da5905,63.5,23.749,
+Vests,VE-C304-M,"Classic Vest, M",f5d94496-fff0-4943-8e73-f10f35f44a5b,Blue,e03eaa26-34c9-40bd-a891-0a76e5563561,63.5,23.749,
+Vests,VE-C304-S,"Classic Vest, S",f5d94496-fff0-4943-8e73-f10f35f44a5b,Blue,225b0d31-3e10-4f4c-a261-23601c24bd2b,63.5,23.749,
+Gloves,GL-F110-L,"Full-Finger Gloves, L",586bdab0-ccf5-4104-8251-2e231bda2886,Black,e2b9387e-3397-494f-a66b-f023b2ccf578,37.99,15.6709,
+Gloves,GL-F110-M,"Full-Finger Gloves, M",586bdab0-ccf5-4104-8251-2e231bda2886,Black,f9799ecc-02c8-41d5-8561-c220ba2f24ba,37.99,15.6709,
+Gloves,GL-F110-S,"Full-Finger Gloves, S",586bdab0-ccf5-4104-8251-2e231bda2886,Black,8fdfcc12-d763-41ad-83a9-8237bf8b2b03,37.99,15.6709,
+Gloves,GL-H102-L,"Half-Finger Gloves, L",586bdab0-ccf5-4104-8251-2e231bda2886,Black,e354ebea-caa9-4db2-8123-bbdb18d50299,24.49,9.1593,
+Gloves,GL-H102-M,"Half-Finger Gloves, M",586bdab0-ccf5-4104-8251-2e231bda2886,Black,348dbfc3-a063-42d3-bac7-2baa36dc2b94,24.49,9.1593,
+Gloves,GL-H102-S,"Half-Finger Gloves, S",586bdab0-ccf5-4104-8251-2e231bda2886,Black,5935cae6-00d6-4774-a924-514ac21a2ef5,24.49,9.1593,
+Caps,CA-1098,AWC Logo Cap,5ba9f3d3-8fc9-4ebb-87e7-df075a764f46,Multi,be7695ba-66d0-4963-8a55-07ffd5c2b17d,8.99,6.9223,
+Caps,NIKE-GREEN-1,Nike Green Cap,5ba9f3d3-8fc9-4ebb-87e7-df075a764f46,Green,65f0034d-29cd-4c2c-9354-704ba9ee48ec,20,18,0.5
+Hydration Packs,HY-1023-70,Hydration Pack - 70 oz.,14571cd7-3a17-462e-aebb-105e29bc86a6,Silver,972a1a0f-d667-4a71-bde5-52c9ed8123cd,54.99,20.5663,
+Hydration Packs,HYDR-PACK-Prod1,Hydration Pack Test 1 Prod,14571cd7-3a17-462e-aebb-105e29bc86a6,Green,eed77a7f-90ea-47e7-8d4e-785d55f60461,12,11,2
+Touring Frames,FR-T67U-44,"LL Touring Frame - Blue, 44",39e85c97-bad9-46a2-9e3a-b61ac8622515,Blue,3054103c-923f-4ff6-93c2-693141f7bd2d,333.42,199.8519,1369.84
+Touring Frames,FR-T67U-50,"LL Touring Frame - Blue, 50",39e85c97-bad9-46a2-9e3a-b61ac8622515,Blue,63d226db-32f4-4f32-b563-8fbbacd342e0,333.42,199.8519,1406.13
+Touring Frames,FR-T67U-54,"LL Touring Frame - Blue, 54",39e85c97-bad9-46a2-9e3a-b61ac8622515,Blue,fce4b99c-63d8-4ff6-9720-da590cfcea9b,333.42,199.8519,1424.27
+Touring Frames,FR-T67U-58,"LL Touring Frame - Blue, 58",39e85c97-bad9-46a2-9e3a-b61ac8622515,Blue,62f718fb-90c2-4ed7-9602-ccd3a51ae3aa,333.42,199.8519,1433.34
+Touring Frames,FR-T67U-62,"LL Touring Frame - Blue, 62",39e85c97-bad9-46a2-9e3a-b61ac8622515,Blue,96592ab2-29af-4c62-97b6-41a0f051bdf6,333.42,199.8519,1451.49
+Touring Frames,FR-T67Y-44,"LL Touring Frame - Yellow, 44",39e85c97-bad9-46a2-9e3a-b61ac8622515,Yellow,592c2b14-1baa-4df7-9860-092cb0896f75,333.42,199.8519,1369.84
+Touring Frames,FR-T67Y-50,"LL Touring Frame - Yellow, 50",39e85c97-bad9-46a2-9e3a-b61ac8622515,Yellow,c5fd366a-b920-41a2-abb9-0248e831dc81,333.42,199.8519,1406.13
+Touring Frames,FR-T67Y-54,"LL Touring Frame - Yellow, 54",39e85c97-bad9-46a2-9e3a-b61ac8622515,Yellow,6fd163ea-0d89-4c3c-90cf-de50024c53bb,333.42,199.8519,1424.27
+Touring Frames,FR-T67Y-58,"LL Touring Frame - Yellow, 58",39e85c97-bad9-46a2-9e3a-b61ac8622515,Yellow,7e8d328d-41b3-4646-939b-1870352f7e3e,333.42,199.8519,1433.34
+Touring Frames,FR-T67Y-62,"LL Touring Frame - Yellow, 62",39e85c97-bad9-46a2-9e3a-b61ac8622515,Yellow,550a85a3-fc35-4d60-a140-ffee480f6106,333.42,199.8519,1451.49
+Touring Frames,FR-T98U-46,"HL Touring Frame - Blue, 46",39e85c97-bad9-46a2-9e3a-b61ac8622515,Blue,1e88084a-bd2c-4966-8a86-f51a6d5c514c,1003.91,601.7437,1342.63
+Touring Frames,FR-T98U-50,"HL Touring Frame - Blue, 50",39e85c97-bad9-46a2-9e3a-b61ac8622515,Blue,147e389a-04b8-4803-b8db-e6e760036b9f,1003.91,601.7437,1360.77
+Touring Frames,FR-T98U-54,"HL Touring Frame - Blue, 54",39e85c97-bad9-46a2-9e3a-b61ac8622515,Blue,8a85eb7f-ee15-49a5-8128-96cae94df082,1003.91,601.7437,1378.91
+Touring Frames,FR-T98U-60,"HL Touring Frame - Blue, 60",39e85c97-bad9-46a2-9e3a-b61ac8622515,Blue,64f135a7-5f88-40e6-9247-5034856616bd,1003.91,601.7437,1397.06
+Touring Frames,FR-T98Y-46,"HL Touring Frame - Yellow, 46",39e85c97-bad9-46a2-9e3a-b61ac8622515,Yellow,8ff7c3a6-3a61-401e-ad9d-c56c20acf796,1003.91,601.7437,1342.63
+Touring Frames,FR-T98Y-50,"HL Touring Frame - Yellow, 50",39e85c97-bad9-46a2-9e3a-b61ac8622515,Yellow,c3485097-96e8-4cf7-a831-f763a3649375,1003.91,601.7437,1360.77
+Touring Frames,FR-T98Y-54,"HL Touring Frame - Yellow, 54",39e85c97-bad9-46a2-9e3a-b61ac8622515,Yellow,cbea2977-63a0-4600-8d8a-3220cb4d0fab,1003.91,601.7437,1378.91
+Touring Frames,FR-T98Y-60,"HL Touring Frame - Yellow, 60",39e85c97-bad9-46a2-9e3a-b61ac8622515,Yellow,93ec4e8f-e935-4dd7-8c5d-4ad42ace1ddc,1003.91,601.7437,1397.06
+Touring Bikes,BK-T18U-44,"Touring-3000 Blue, 44",252ac58d-8eca-41e6-bc69-93f73a957ddf,Blue,8e90fa48-ce54-4ba9-9dcb-7e6639832de3,742.35,461.4448,13049.78
+Touring Bikes,BK-T18U-50,"Touring-3000 Blue, 50",252ac58d-8eca-41e6-bc69-93f73a957ddf,Blue,aee34d2b-252c-44a4-9e9d-488648d05760,742.35,461.4448,13213.08
+Touring Bikes,BK-T18U-54,"Touring-3000 Blue, 54",252ac58d-8eca-41e6-bc69-93f73a957ddf,Blue,ab09cc97-0e10-421f-ad70-7d96c5a3feed,742.35,461.4448,13462.55
+Touring Bikes,BK-T18U-58,"Touring-3000 Blue, 58",252ac58d-8eca-41e6-bc69-93f73a957ddf,Blue,60516d02-15d9-43c7-8720-4765333d94cd,742.35,461.4448,13562.34
+Touring Bikes,BK-T18U-62,"Touring-3000 Blue, 62",252ac58d-8eca-41e6-bc69-93f73a957ddf,Blue,7ba23e1e-4d5d-4788-91a8-84c433a32804,742.35,461.4448,13607.7
+Touring Bikes,BK-T18Y-44,"Touring-3000 Yellow, 44",252ac58d-8eca-41e6-bc69-93f73a957ddf,Yellow,d8bfaa9c-1b9b-43c0-b770-2e34ef978bab,742.35,461.4448,13049.78
+Touring Bikes,BK-T18Y-50,"Touring-3000 Yellow, 50",252ac58d-8eca-41e6-bc69-93f73a957ddf,Yellow,5ea077fc-79e4-4231-977f-7c2a0c39b74b,742.35,461.4448,13213.08
+Touring Bikes,BK-T18Y-54,"Touring-3000 Yellow, 54",252ac58d-8eca-41e6-bc69-93f73a957ddf,Yellow,74143236-0c29-42cf-8f63-30b76c78661f,742.35,461.4448,13344.62
+Touring Bikes,BK-T18Y-58,"Touring-3000 Yellow, 58",252ac58d-8eca-41e6-bc69-93f73a957ddf,Yellow,ddacf8fd-3fe4-4277-908a-fec1e2a9ec61,742.35,461.4448,13512.45
+Touring Bikes,BK-T18Y-62,"Touring-3000 Yellow, 62",252ac58d-8eca-41e6-bc69-93f73a957ddf,Yellow,c318d087-48b7-48ab-8213-99e5405ed690,742.35,461.4448,13607.7
+Touring Bikes,BK-T44U-46,"Touring-2000 Blue, 46",252ac58d-8eca-41e6-bc69-93f73a957ddf,Blue,23145dde-97a0-412b-a751-41d00e488a39,1214.85,755.1508,12305.9
+Touring Bikes,BK-T44U-50,"Touring-2000 Blue, 50",252ac58d-8eca-41e6-bc69-93f73a957ddf,Blue,f48fe091-c4dd-4aca-8619-2f5ea55d5a45,1214.85,755.1508,12437.44
+Touring Bikes,BK-T44U-54,"Touring-2000 Blue, 54",252ac58d-8eca-41e6-bc69-93f73a957ddf,Blue,64682df4-8254-4809-b518-d9f9e6b92509,1214.85,755.1508,12555.37
+Touring Bikes,BK-T44U-60,"Touring-2000 Blue, 60",252ac58d-8eca-41e6-bc69-93f73a957ddf,Blue,f94e890e-bbc5-4bf4-ab2a-5dc1f5cb1b80,1214.85,755.1508,12655.16
+Touring Bikes,BK-T79U-46,"Touring-1000 Blue, 46",252ac58d-8eca-41e6-bc69-93f73a957ddf,Blue,7fd1e9ba-e434-4e50-96a6-c4e4cbca1a93,2384.07,1481.9379,11398.72
+Touring Bikes,BK-T79U-50,"Touring-1000 Blue, 50",252ac58d-8eca-41e6-bc69-93f73a957ddf,Blue,feaeceee-7761-49bf-9c27-5b9bca68ef60,2384.07,1481.9379,11530.26
+Touring Bikes,BK-T79U-54,"Touring-1000 Blue, 54",252ac58d-8eca-41e6-bc69-93f73a957ddf,Blue,d0fa0c0b-c0f7-4e58-bf0b-c2bc745b7702,2384.07,1481.9379,11648.19
+Touring Bikes,BK-T79U-60,"Touring-1000 Blue, 60",252ac58d-8eca-41e6-bc69-93f73a957ddf,Blue,6c25b90e-cf69-452e-b9eb-c33d14aaea40,2384.07,1481.9379,11747.98
+Touring Bikes,BK-T79Y-46,"Touring-1000 Yellow, 46",252ac58d-8eca-41e6-bc69-93f73a957ddf,Yellow,f224529b-73b3-4905-8319-517886d0b255,2384.07,1481.9379,11398.72
+Touring Bikes,BK-T79Y-50,"Touring-1000 Yellow, 50",252ac58d-8eca-41e6-bc69-93f73a957ddf,Yellow,c47f6c12-5097-4436-9ec7-481b15c35ca0,2384.07,1481.9379,11530.26
+Touring Bikes,BK-T79Y-54,"Touring-1000 Yellow, 54",252ac58d-8eca-41e6-bc69-93f73a957ddf,Yellow,aa78bc03-63db-4730-83df-1771cc48373d,2384.07,1481.9379,11648.19
+Touring Bikes,BK-T79Y-60,"Touring-1000 Yellow, 60",252ac58d-8eca-41e6-bc69-93f73a957ddf,Yellow,f805b237-2488-4676-91aa-02f3075c8a52,2384.07,1481.9379,11747.98
+Headsets,HS-0296,LL Headset,9b96fc2e-b1ae-4916-85bb-9694ac3726b0,,44a43f13-63f9-436a-b9e1-fae25e262041,34.2,15.1848,
+Headsets,HS-2451,ML Headset,9b96fc2e-b1ae-4916-85bb-9694ac3726b0,,23f86ed0-39dd-41ee-a9e6-eb41b8a93b44,102.29,45.4168,
+Headsets,HS-3479,HL Headset,9b96fc2e-b1ae-4916-85bb-9694ac3726b0,,0b029697-0397-48cd-bc9c-60ebca90d675,124.73,55.3801,
